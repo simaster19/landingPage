@@ -1,6 +1,6 @@
 ## Profile
 
-[url](https://instagram.com/simaster19)
+[instagram](https://instagram.com/simaster19)
 
 ## Judul
 
@@ -25,7 +25,8 @@ Landing page dibuat untuk pembelajaran Frontend, bisa juga langsung di aplikasik
 2. CSS3/BOOTSTRAP5
 3. Javascript
 
-##Image
+## Images
+
 ![about-d](https://user-images.githubusercontent.com/107765852/224901045-2c206769-648d-442d-9be3-f46e5ac87fd8.png)
 ![about-p](https://user-images.githubusercontent.com/107765852/224901066-383933c4-3a25-462b-87d5-e1bb678ebad9.png)
 ![contact-d](https://user-images.githubusercontent.com/107765852/224901070-0ec87eca-95b1-44e6-98e2-01f7b358b823.png)
