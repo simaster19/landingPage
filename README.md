@@ -1,22 +1,25 @@
-##Profile
-![Instagram](https://instagram.com/simaster19)
+## Profile
 
-##Judul
+[url](https://instagram.com/simaster19)
+
+## Judul
+
 Landing Page Kopi Kenangan Senja
 
-##Deskripsi
+## Deskripsi
+
 Landing page dibuat untuk pembelajaran Frontend, bisa juga langsung di aplikasikan ke Bisnis anda.
 
-##Panduan Instalasi
+## Panduan Instalasi
 
 1. Masuk terminal git
 2. arahkan ke foder andalan kalian.
 3. ketikkan "git clone {url github ini}"
 4. maka file akan otomatis ke download dan siap pakai.
 
-##Intruksi Penggunaan
+## Intruksi Penggunaan
 
-##Bahasa atau Framework
+## Bahasa atau Framework
 
 1. HTML5
 2. CSS3/BOOTSTRAP5
