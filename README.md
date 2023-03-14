@@ -1,6 +1,6 @@
 ## Profile
 
-[instagram](https://instagram.com/simaster19)
+[instagram](https://instagram.com/simaster19) | [youtube](https://youtube.com/simaster19)
 
 ## Judul
 
